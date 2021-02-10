@@ -30,7 +30,7 @@ public class Main {
         //   要素が奇数の場合には「nは奇数です。」と出力されます。
 
         for (int num = 0; num < arr.length; num++) {
-        	isOdd(num);
+        	isOdd(arr[num]);
         }
 
 
