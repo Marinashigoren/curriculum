@@ -46,7 +46,8 @@ public class Study {
         //for(Map.Entry<String, Integer> entry : shopMap.entrySet())
           for(String list : shohinList) {
               //System.out.println(entry.getKey() + "=" + entry.getValue() + "円になります。");
-        	  System.out.println(list + "=" + shopMap.get(shohinList.get(0)) + "円になります。");
+        	  //System.out.println(list + "=" + shopMap.get(shohinList.get(0)) + "円になります。");
+        	  System.out.println(list + "=" + shopMap.get(list) + "円になります。");
           }
 
     }
