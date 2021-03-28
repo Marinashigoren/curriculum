@@ -43,7 +43,8 @@ public class Study {
         System.out.println(sdf.format(date));
         calendar.add(Calendar.MONTH, 2);
         Date date2 = calendar.getTime();
-        SimpleDateFormat sdf2 = new SimpleDateFormat("mm");
+        //SimpleDateFormat sdf2 = new SimpleDateFormat("mm");
+        SimpleDateFormat sdf2 = new SimpleDateFormat("MM");
         System.out.println(sdf2.format(date2));
         calendar.add(Calendar.DATE, 15);
         Date date3 = calendar.getTime();
