@@ -1,0 +1,67 @@
+.container::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.head{
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+
+.center{
+    width: 400px;
+    height: 250px;
+}
+
+.left{
+    float: left;
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+
+.right{
+    float: right;
+    width: 250px;
+    height: 250px;
+}
+
+.right3{
+   
+    width: 250px;
+    height: 150px;
+}
+.hidariue{
+    float: left;
+    width: 150px;
+    height: 50px;
+    background-color: #dbd400;
+}
+
+.migi{
+    float: right;
+    width: 100px;
+    height: 150px;
+    background-color: #ff9e6b;
+}
+
+.hidarisita{
+    float: left;
+    width: 150px;
+    height: 100px;
+    background-color: #0093b7;
+}
+.sita{
+
+    width: 250px;
+    height: 100px;
+    background-color: #8c2727;
+}
+
+.floot{
+    width: 400px;
+    height: 100px;
+    background-color: #d87d30;
+}

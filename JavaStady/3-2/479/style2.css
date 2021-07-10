@@ -1,0 +1,62 @@
+.container::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+@media screen and (min-width:479px) { 
+.head{
+    width: 150px;
+    height: 100px;
+    background-color: #141f40;
+}
+
+.center{
+    width: 150px;
+    height: 450px;
+}
+
+.left{
+    float: left;
+    width: 150px;
+    height: 100px;
+    background-color: #80bfa8;
+}
+
+.right{
+    float: right;
+    width: 150px;
+    height: 350px;
+}
+.migi{
+    float: right;
+    width: 150px;
+    height: 100px;
+    background-color: #ff9e6b;
+}
+
+.hidariue{
+    float: left;
+    width: 150px;
+    height: 50px;
+    background-color: #dbd400;
+}
+
+.hidarisita{
+    float: left;
+    width: 150px;
+    height: 100px;
+    background-color: #0093b7;
+}
+.sita{
+    float: right;
+    width: 150px;
+    height: 100px;
+    background-color: #8c2727;
+}
+
+.floot{
+    width: 150px;
+    height: 100px;
+    background-color: #d87d30;
+}
+}
