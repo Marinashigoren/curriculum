@@ -28,6 +28,10 @@
     height: 250px;
 }
 
+.right3{   
+    width: 250px;
+    height: 150px;
+}
 .hidariue{
     float: left;
     width: 150px;
@@ -41,6 +45,7 @@
     height: 150px;
     background-color: #ff9e6b;
 }
+
 .hidarisita{
     float: left;
     width: 150px;
@@ -48,7 +53,7 @@
     background-color: #0093b7;
 }
 .sita{
-    float: right;
+
     width: 250px;
     height: 100px;
     background-color: #8c2727;

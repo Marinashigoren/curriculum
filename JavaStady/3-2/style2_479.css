@@ -1,0 +1,41 @@
+
+@media screen and (max-width:479px) { 
+.head{
+    width: 150px;
+}
+
+.center{
+    width: 150px;
+}
+
+.left{
+    width: 150px;
+}
+
+.right{
+    width: 150px;
+}
+
+.right3{   
+    width: 150px;
+}
+
+.migi{
+    width: 150px;
+}
+
+.hidariue{
+    width: 150px;
+}
+
+.hidarisita{
+    width: 150px;
+}
+.sita{
+    width: 150px;
+}
+
+.floot{
+    width: 150px;
+}
+}
