@@ -1,0 +1,88 @@
+
+@media screen and (max-width:767px) { 
+    .head{
+        width: 300px;
+    }
+    
+    .center{
+        width: 300px;
+    }
+    
+    .left{
+        width: 100px;
+    }
+    
+    .right{
+        width: 200px;
+    }
+    
+    .right3{   
+        width: 200px;
+    }
+    
+    .hidariue{
+        width: 125px;
+    }
+    
+    .migi{
+        width: 75px;
+    }
+    
+    .hidarisita{
+        width: 125px;
+    }
+    .sita{
+        width: 200px;
+    }
+    
+    .floot{
+        width: 300px;
+    }
+    }
+
+    @media screen and (max-width:479px) { 
+        .head{
+            width: 150px;
+        }
+        
+        .center{
+            height: 450px;
+            width: 150px;
+        }
+        
+        .left{
+            width: 150px;
+            height: 100px;
+        }
+        
+        .right{
+            width: 150px;
+        }
+        
+        .right3{   
+            width: 150px;
+        }
+        
+        .migi{
+            width: 150px;
+            height:100px;
+        }
+        
+        .hidariue{
+            width: 150px;
+        }
+        
+        .hidarisita{
+            width: 150px;
+        }
+        .sita{
+            float:left;
+            width: 150px;
+            height:100px;
+        }
+        .floot{
+            float: left;
+            width: 150px;
+            height:100px;
+        }
+        }
