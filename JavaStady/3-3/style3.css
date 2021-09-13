@@ -1,0 +1,106 @@
+.container::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.head{
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+
+.sirosikaku{
+    float: right;
+    width: 160px;
+    height: 60px;
+    margin: 20px 20px 20px 200px;
+    background-color: white;
+}
+
+.pinkshikaku1{
+    float:left;
+    width: 40px;
+    height: 40px;
+    margin: 10px 0 10px 10px;
+    background-color: #a9004b;
+}
+
+.pinkshikaku2{
+    float:left;
+    width: 40px;
+    height: 40px;
+    margin: 10px 0 10px 10px;
+    background-color: #a9004b;
+}
+
+.pinkshikaku3{
+    float:left;
+    width: 40px;
+    height: 40px;
+    margin: 10px 0 10px 10px;
+    background-color: #a9004b;
+}
+
+
+.center{
+    width: 400px;
+    height: 250px;
+}
+
+.left{
+    float: left;
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+
+.right{
+    float: right;
+    width: 250px;
+    height: 250px;
+    background-color: #8c2727;
+}
+
+.orange1{
+    float: left;
+    width: 140px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 60px;
+    background-color: #ff863f;
+    border: solid;
+    border-color: white;
+}
+
+.orange2{
+    float: left;
+    width: 140px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 60px;
+    background-color: #ff863f;
+    border: solid;
+    border-color: white;
+}
+
+.orange3{
+    float: left;
+    width: 140px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 60px;
+    margin-bottom:40px;
+    background-color: #ff863f;
+    border: solid;
+    border-color: white;
+}
+
+.floot{
+    width: 400px;
+    height: 100px;
+    background-color: #d87d30;
+}
