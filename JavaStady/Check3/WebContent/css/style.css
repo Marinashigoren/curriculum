@@ -1,0 +1,16 @@
+@charset "utf-8";
+div{
+padding-top: 50px;
+padding-bottom: 50px;
+background-color: blue;
+background-color: gray;
+}
+
+label{
+display: inline-block;
+padding: 10px;
+color: white;
+padding: 10px;
+font-size: 10px;
+}
+
