@@ -1,16 +1,27 @@
 @charset "utf-8";
 div{
+/*header.jsp*/
+background-color: white;
+/*jspTest.jsp*/
+/*padding-topとpadding-botomの反映がおかしい*/
+/*CSSファイルの反映について知る*/
 padding-top: 50px;
 padding-bottom: 50px;
-background-color: blue;
-background-color: gray;
+/*footer.jsp*/
+background-color: white;
 }
 
 label{
+/*header.jsp*/
 display: inline-block;
 padding: 10px;
-color: white;
+color: gray;
+/*header.jsp*/
 padding: 10px;
 font-size: 10px;
+/*footer.jsp*/
+display: inline-block;
+padding: 10px;
+color: gray;
 }
 
